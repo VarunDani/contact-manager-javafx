@@ -30,7 +30,7 @@ Source Project Folder that is created in Eclipse.
 **2.1	 Main Application Screen**
 This screen contains title of Application, Menu bar for actions, tool bar for action buttons , text field area and Two Table View For Difference Section
 
-![](/SupportingDocuments/mainScreen.jpg?raw=true)
+![](https://github.com/VarunDani/contact-manager-javafx/blob/master/SupportedImages/mainScreen.jpg?raw=true)
 
 
 **2.2	Menu of Application**
@@ -40,12 +40,12 @@ This screen contains title of Application, Menu bar for actions, tool bar for ac
 
 **2.3	Mandatory Constraints on Addition**
 
-![](SupportingDocuments/constraints.jpg?raw=true)
+![](contact-manager-javafx/SupportingDocuments/constraints.jpg?raw=true)
 
 
 **2.4 Date Field Restrictions**
 
-![](SupportingDocuments/dateVal.jpg?raw=true)
+![](/contact-manager-javafx/SupportingDocuments/dateVal.jpg?raw=true)
 
 
 **2.5	Combo box Values**
