@@ -40,7 +40,7 @@ This screen contains title of Application, Menu bar for actions, tool bar for ac
 
 **2.3	Mandatory Constraints on Addition**
 
-![](contact-manager-javafx/SupportingDocuments/constraints.jpg?raw=true)
+![](/SupportedImages/constraints.jpg?raw=true)
 
 
 **2.4 Date Field Restrictions**
