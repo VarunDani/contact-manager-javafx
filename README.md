@@ -6,7 +6,7 @@
 
 This project is contact manager as current database subject project. It is implemeted as raw database connections and UI of JavaFX
 
-![](SupportingDocuments/mainScreen.jpg?raw=true)
+![](/SupportedImages/mainScreen.jpg?raw=true)
 
 
 **1. Set Up Project**
@@ -28,14 +28,15 @@ Source Project Folder that is created in Eclipse.
 --------------------------------
 
 **2.1	 Main Application Screen**
+
 This screen contains title of Application, Menu bar for actions, tool bar for action buttons , text field area and Two Table View For Difference Section
 
-![](https://github.com/VarunDani/contact-manager-javafx/blob/master/SupportedImages/mainScreen.jpg?raw=true)
+![](/SupportedImages/mainScreen.jpg?raw=true)
 
 
 **2.2	Menu of Application**
 
-![](SupportingDocuments/menu.jpg?raw=true)
+![](/SupportedImages/menu.jpg?raw=true)
 
 
 **2.3	Mandatory Constraints on Addition**
@@ -45,17 +46,17 @@ This screen contains title of Application, Menu bar for actions, tool bar for ac
 
 **2.4 Date Field Restrictions**
 
-![](/contact-manager-javafx/SupportingDocuments/dateVal.jpg?raw=true)
+![](/SupportedImages/dateVal.jpg?raw=true)
 
 
 **2.5	Combo box Values**
 
-![](SupportingDocuments/combo.jpg?raw=true)
+![](/SupportedImages/combo.jpg?raw=true)
 
 
 **2.6	Successfully Addition** 
 
-![](SupportingDocuments/add.jpg?raw=true)
+![](/SupportedImages/add.jpg?raw=true)
 
 
 **2.7	Inline Modification**
@@ -64,8 +65,8 @@ Modify Any Field Value of Person By Double Clicking that field, Change value and
 
 If any Invalid input Entered in text Field then, It automatically reset to previous value without committing any changes
 
-![](SupportingDocuments/inline.jpg?raw=true)
+![](/SupportedImages/inline.jpg?raw=true)
 
 **2.8	Referential Integrity while Delete (when want to delete Person)**
 
-![](SupportingDocuments/delete.jpg?raw=true)
+![](/SupportedImages/delete.jpg?raw=true)
