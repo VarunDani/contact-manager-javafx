@@ -30,7 +30,7 @@ Source Project Folder that is created in Eclipse.
 **2.1	 Main Application Screen**
 This screen contains title of Application, Menu bar for actions, tool bar for action buttons , text field area and Two Table View For Difference Section
 
-![](SupportingDocuments/mainScreen.jpg?raw=true)
+![](contact-manager-javafx/SupportingDocuments/mainScreen.jpg?raw=true)
 
 
 **2.2	Menu of Application**
